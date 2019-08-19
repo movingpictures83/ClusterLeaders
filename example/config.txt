@@ -1,0 +1,2 @@
+Prefix plugins/ClusterLeaders/example/
+Plugin ClusterLeaders inputfile parameters.txt outputfile Clusters_1.5_5_1.5_1.5.pvalued.2.leaders.csv
